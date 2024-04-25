@@ -1,6 +1,6 @@
 WITH
 survey AS (
-SELECT * FROM `cloudside-academy.dbt_sample_data.annual-enterprise-survey02`),
+SELECT * FROM `still-vim-360206.BK_db.annual_02`),
 
 n AS ( 
 SELECT 
