@@ -1,6 +1,6 @@
 WITH
 survey AS (
-SELECT * FROM `still-vim-360206.BK_db.annual_02`),
+SELECT * FROM `still-vim-360206.BK_db.annual_01`),
 
 n AS ( 
 SELECT 
